@@ -29,5 +29,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 [MIT](https://mit.com)
 
-![](D:\VSCODE_Procects\Odev1\kodluyoruzilkrepo\proje)
+![](proje.jpg)
 
